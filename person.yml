@@ -1,3 +1,10 @@
 person:
   name:
     first_name: Stig
+    last_name: Thig
+  age: 87
+  class: foo
+  start_year: 2022
+  hobbies:
+    - bar
+    - baz
