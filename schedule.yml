@@ -1,6 +1,6 @@
 schedule:
   year: "2022"
   program: java
-  lessons:
-    - description: foo
-    - date: "2022-02-01"
+  - lessons:
+    description: foo
+    date: "2022-02-01"
