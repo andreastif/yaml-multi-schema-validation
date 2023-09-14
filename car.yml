@@ -1,2 +1,9 @@
 car:
   manufacturer: volvo
+  model: cross-country
+  year: '2021'
+  - attributes:
+    cherry
+    berry
+    merry
+  reg: abc123
