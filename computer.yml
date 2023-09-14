@@ -1,3 +1,13 @@
 computer:
   cpu:
-    cores: 8
+    manufacturer: foo
+    cores: "8"
+    frequency: "1"
+  memory:
+    manufacturer: bar
+    size: "8"
+    type: baz
+  disk:
+    manufacturer: kaz
+    size: "8"
+    type: laz
